@@ -25,7 +25,7 @@
   
 <div> 
   <a href="https://instagram.com/augustocesarpro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/M34O81ES#1875" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/M34O81ES/M34O81ES/blob/output/github-contribution-grid-snake.svg)
  
