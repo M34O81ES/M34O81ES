@@ -3,7 +3,7 @@
 - 🔭 Trabalho com Gravitação
 - 🌱 Estudando atualmente HTML, CSS, Python, mas tenho ainda noção de Java
 - 🤔 Preciso de ajuda com Ciências de dados e matemática
-- ⚡ Sou formado em filosofia, mas estudo física
+- ⚡ Sou formado em filosofia, mas agora faço graduação em física
 
 <div align="center">
   <a href="https://github.com/M34O81ES">
